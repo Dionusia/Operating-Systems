@@ -13,5 +13,3 @@ Question C [10]: In a program in the OS kernel, 5 system calls are made (Systems
 You are asked to implement code that represents (with maximum possible parallelism) the execution order of the system calls of the above program. Don't forget to declare and initialize the semaphores you will use.
 
 Consider that each SC1...SC5 command executes a system command of your choice. e.g. system("ls -l") or system("ps -l") etc...
-
-++some simple exercises
